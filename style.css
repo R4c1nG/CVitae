@@ -1,0 +1,14 @@
+/*  Autor: Jorge Tarascó
+    Fecha 04 / 12 / 18
+*/
+
+@charset "UTF-8";
+
+header {
+    color: blue;
+    background-color: #e2f232;
+}
+
+h1 {
+    color: red;
+}
