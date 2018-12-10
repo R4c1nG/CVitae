@@ -59,8 +59,20 @@ p.tt {
 }
 p.bott {
     background-color: white;
+    position: fixed;
+    bottom: 0;
+    border-top: black 2px solid;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+
+b {
+    color: #0088CC;
 }
 
 strong {
     color: #006699;
+    font-weight: 100;
 }
